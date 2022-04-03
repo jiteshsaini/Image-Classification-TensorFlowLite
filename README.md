@@ -1,5 +1,5 @@
 <p align="left">
-<a href='https://helloworld.co.in/article/image-classification-tensorflow-lite-explained' target='_blank'>
+<a href='https://helloworld.co.in/article/image-classification-tensorflow-lite' target='_blank'>
    Read the Article
 </a> 
 
